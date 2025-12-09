@@ -87,6 +87,7 @@ body {
 
 #features {
   padding: 40px 20px;
+  text-align: center;
 }
 
 .feature-item {
@@ -109,6 +110,7 @@ body {
 
 #pricing {
   padding: 50px 20px;
+  text-align: center;
 }
 
 .pricing-container {
